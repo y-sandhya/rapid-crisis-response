@@ -75,7 +75,7 @@
   <!-- LOGIN PAGE -->
   <div class="container" id="loginPage">
     <h2>Login</h2>
-    <input type="text" placeholder="Username">
+    <input type="email" placeholder="Email ID">
     <input type="password" placeholder="Password">
     <button onclick="login()">Login</button>
   </div>
